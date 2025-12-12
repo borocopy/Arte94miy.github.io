@@ -1,0 +1,32 @@
+# Файлы операционной системы
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Файлы редакторов кода
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Временные файлы
+*.tmp
+*.temp
+*.log
+npm-debug.log*
+
+# Системные папки
+node_modules/
+
+# Локальные настройки
+*.local
+
+# Резервные копии
+*.bak
+*.backup
